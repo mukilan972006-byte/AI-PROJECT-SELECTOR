@@ -1,0 +1,6 @@
+{
+  "name": "AI Project Selector & Python Code Generator",
+  "description": "Top project selection, complete runnable Python code, interactive simulator, and 5-day roadmap for GenAI Agent workshop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
